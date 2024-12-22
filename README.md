@@ -1,7 +1,23 @@
-# VibeCast (Русское описание)
+# VibeCast
 
 VibeCast - медиаплеер, разработанный с использованием Python и библиотеки VLC. Он позволяет воспроизводить различные форматы медиафайлов и предоставляет базовые функции управления воспроизведением.
 
-# VibeCast (English description)
+## Функции
 
-VibeCast is a media player developed using Python and the VLC library. It allows you to play various media file formats and provides basic playback controls.
+- Воспроизведение аудио и видео файлов.
+- Пауза и остановка воспроизведения.
+- Повторное воспроизведение текущего медиафайла.
+- Регулировка громкости.
+
+## Установка
+
+Для работы с VibeCast вам потребуется:
+
+1. Установленный Python (рекомендуется версия 3.6 и выше).
+2. Установленная библиотека `python-vlc`.
+
+Вы можете установить библиотеку `python-vlc` с помощью pip:
+
+```bash
+pip install python-vlc
+
