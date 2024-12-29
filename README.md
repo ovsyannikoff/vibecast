@@ -14,13 +14,7 @@ VibeCast - медиаплеер, разработанный с использо�
 Для работы с VibeCast вам потребуется:
 
 1. Установленный Python (рекомендуется версия 3.6 и выше).
-2. Установленная библиотека `python-vlc`.
-
-Вы можете установить библиотеку `python-vlc` с помощью pip:
-
-```bash
-pip install python-vlc
-```
+2. Установленный VLC Media Player.
 
 # VibeCast (English description)
 
@@ -38,10 +32,4 @@ VibeCast is a media player developed using Python and the VLC library. It allows
 To work with VibeCast you will need:
 
 1. Python installed (version 3.6 and higher recommended).
-2. Installed `python-vlc` library.
-
-You can install the `python-vlc` library using pip:
-
-```bash
-pip install python-vlc
-```
+2. Installed VLC Media Player.
